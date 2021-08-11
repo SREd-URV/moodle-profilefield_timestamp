@@ -8,6 +8,7 @@ Contributors
 ============
 
 Maintained by:
+
 * Jordi Pujol-Ahulló (at SREd, Universitat Rovira i Virgili).
 
 [See all Github contributors](https://github.com/SREd-URV/moodle-profilefield_timestamp/graphs/contributors)
