@@ -1,3 +1,5 @@
+[![Moodle Plugin CI](https://github.com/SREd-URV/moodle-profilefield_timestamp/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/SREd-URV/moodle-profilefield_timestamp/actions/workflows/moodle-ci.yml) [![Releasing in the Plugins directory](https://github.com/SREd-URV/moodle-profilefield_timestamp/actions/workflows/moodle-release.yml/badge.svg)](https://github.com/SREd-URV/moodle-profilefield_timestamp/actions/workflows/moodle-release.yml)
+
 Timestamp Profile Field
 ===
 
