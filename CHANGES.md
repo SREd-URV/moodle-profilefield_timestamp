@@ -3,6 +3,7 @@ Release notes
 
 1. Keep minimum Moodle version supported as 2.5.
 1. (#3) Use Github Actions to pass tests and update release on Moodle Plugins directory.
+1. (#4) Added privacy metadata file.
 
 Contributors
 ============

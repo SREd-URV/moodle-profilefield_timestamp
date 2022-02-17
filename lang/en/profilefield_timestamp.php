@@ -24,5 +24,6 @@
  */
 
 $string['pluginname'] = 'Timestamp input';
+$string['privacy:metadata'] = 'Timestamp input does not store any personal data.';
 $string['profilefield_timestamp'] = 'Timestamp';
 $string['notset'] = 'Not set';

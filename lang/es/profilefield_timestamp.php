@@ -24,5 +24,6 @@
  */
 
 $string['pluginname'] = 'Campo timestamp';
+$string['privacy:metadata'] = 'El Campo de timestamp no almacena ningún dato personal.';
 $string['profilefield_timestamp'] = 'Timestamp';
 $string['notset'] = 'No definido';
